@@ -1,0 +1,17 @@
+name = Stanford Date and Time Formats
+description = Date and time formats used by Stanford modules and Themes
+core = 7.x
+package = Stanford
+version = 7.x-1.0-alpha1
+project = stanford_date_and_time_formats
+dependencies[] = strongarm
+features[features_api][] = api:1
+project status url = http://drupalfeatures.stanford.edu/fserver/stanford_date_and_time_formats/7.x
+variable[date_format_stanford_date_and_year] = date_format_stanford_date_and_year
+variable[date_format_stanford_date_year_and_time] = date_format_stanford_date_year_and_time
+variable[date_format_stanford_long_day_date_and_year] = date_format_stanford_long_day_date_and_year
+variable[date_format_stanford_long_day_date_year_and_time] = date_format_stanford_long_day_date_year_and_time
+variable[date_format_stanford_short_month] = date_format_stanford_short_month
+variable[date_format_stanford_short_month_and_date] = date_format_stanford_short_month_and_date
+variable[date_format_stanford_time] = date_format_stanford_time
+variable[date_format_stanford_two_digit_date] = date_format_stanford_two_digit_date
