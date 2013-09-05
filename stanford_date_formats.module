@@ -1,5 +1,30 @@
 <?php
 /**
  * @file
- * Drupal needs this blank file.
+ * Functionality for the Stanford Date Formats module.
  */
+
+/**
+ * Implements hook_date_formats().
+ */
+function stanford_date_formats_date_formats() {
+  $formats = array(
+    array(
+      'type' => 'stanford_time',
+      'format' => 'g:ia',
+    ),
+  );
+  
+  return $formats;
+}
+
+/**
+ * Implements hook_date_format_types().
+ */
+function stanford_date_formats_date_format_types() {
+  $types = array(
+    'stanford_time' => 'Time',
+  );
+  
+  return $types;
+}

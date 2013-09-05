@@ -1,0 +1,12 @@
+<?php
+/**
+ * @file
+ * Install functions for Stanford Date Formats module
+ */
+
+/**
+ * Implements hook_install().
+ */
+function stanford_date_formats_install() {
+  variable_set('date_format_stanford_time', 'stanford_time', 'g:ia');
+}
