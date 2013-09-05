@@ -1,2 +1,16 @@
 Stanford Date Formats x.x-x.x, xxxx-xx-xx
 -----------------------------------------
+
+Stanford Date Formats 7.x-1.0-alpha1, 2013-09-05
+------------------------------------------------
+Initial release. Includes the following date formats:
+  Time
+  Month Date, Year
+  Date, Year - Time
+  Two Digit Day
+  Short Month 
+  Short Month Day
+  Short Month Day | Time
+  Month Two-Digit Day, Year
+  Long Day of Week, Date, Year
+  Long Day of Week, Date, Year - Time
