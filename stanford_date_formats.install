@@ -11,7 +11,7 @@ function stanford_date_formats_install() {
   variable_set('date_format_stanford_time', 'g:ia');
   variable_set('date_format_stanford_month_date_year', 'F j, Y');
   variable_set('date_format_stanford_date_year_time', 'F j, Y - g:ia');
-  variable_set('date_format_stanford_two_digit_day', 'g:ia');
+  variable_set('date_format_stanford_two_digit_day', 'd');
   variable_set('date_format_stanford_short_month', 'M');
   variable_set('date_format_stanford_short_month_day', 'M j');
   variable_set('date_format_stanford_short_month_day_time', 'M j | g:ia ');
