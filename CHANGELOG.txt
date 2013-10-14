@@ -1,6 +1,11 @@
 Stanford Date Formats x.x-x.x, xxxx-xx-xx
 -----------------------------------------
 
+Stanford Date Formats 7.x-1.0-alpha2, 2013-10-14
+------------------------------------------------
+Changes since 7.x-1.0-alpha1:
+  -Fixed date format for two-digit day
+
 Stanford Date Formats 7.x-1.0-alpha1, 2013-09-05
 ------------------------------------------------
 Initial release. Includes the following date formats:
