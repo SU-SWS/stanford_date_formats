@@ -1,7 +1,7 @@
 #[Stanford Date Formats](https://github.com/SU-SWS/stanford_date_formats)
-##### Version: 7.x-1.0
+##### Version: 7.x-1.1
 
-Maintainers: [jbickar](https://github.com/jbickar), [sherakama](https://github.com/sherakama)   
+Maintainers: [jbickar](https://github.com/jbickar), [sherakama](https://github.com/sherakama)
 [Changelog.txt](CHANGELOG.txt)
 
 This feature contains several date formats for use with other features and custom work. This is more of a utility feature and does not do much on its own.
