@@ -1,6 +1,11 @@
 Stanford Date Formats x.x-x.x, xxxx-xx-xx
 -----------------------------------------
 
+Stanford Date Formats 7.x-1.2, 2018-06-26
+------------------------------------------------
+- Added codeclimate configuration file.
+- Added composer.json configuration file.
+
 Stanford Date Formats 7.x-1.1, 2014-11-27
 ------------------------------------------------
 - Added project status url to .info for ERUS module
