@@ -1,7 +1,7 @@
 {
     "name": "su-sws/stanford_date_formats",
     "description": "A collection of date formats.",
-    "type": "stanford-module",
+    "type": "drupal-custom-module",
     "license": "GPL-2.0+",
     "minimum-stability": "dev",
     "require": {
