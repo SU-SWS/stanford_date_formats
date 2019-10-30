@@ -1,6 +1,0 @@
-Stanford Date Formats x.x-x.x, xxxx-xx-xx
------------------------------------------
-
-Stanford Date Formats 8.x-1.0-alpha1, 2017-10-30
-------------------------------------------------
-- Initial Drupal 8 release
