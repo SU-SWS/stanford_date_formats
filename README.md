@@ -1,5 +1,6 @@
 # [Stanford Date Formats](https://github.com/SU-SWS/stanford_date_formats)
 ##### Version: 8.x-1.0-dev
+[![CircleCI](https://circleci.com/gh/SU-SWS/stanford_date_formats.svg?style=svg)](https://circleci.com/gh/SU-SWS/stanford_date_formats)
 
 Maintainers: [jbickar](https://github.com/jbickar), [sherakama](https://github.com/sherakama)
 [Changelog.txt](CHANGELOG.txt)

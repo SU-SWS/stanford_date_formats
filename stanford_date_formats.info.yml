@@ -1,5 +1,6 @@
 name: 'Stanford Date Formats'
 description: 'Date and time formats used by Stanford modules and Themes'
 type: module
-core: 8.x
-version: 8.x-1.0-dev
+core_version_requirement: ^8 || ^9
+version: 8.x-1.0
+package: Stanford
